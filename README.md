@@ -20,3 +20,25 @@ List processes	top / htop	top / htop	Same command on both.
 Update whole system incl. AUR	n/a	yay -Syu	Common on Arch if you use an AUR helper. reddit+1
 Search AUR package	n/a	yay -Ss term	AUR helper command. 
 **
+| Task | Debian | Arch | Notes |
+| --- | --- | --- | --- |
+| Update package list | sudo apt update  | sudo pacman -Sy | Refreshes repo metadata only; on Arch, pair with a full upgrade. |
+| 02 | XSS Stored | Medium |
+| 03 | Local File Injection | High |
+| 04 | SQL Injection | Critical |
+| 05 | Weak Password on Web Application | Critical |
+| 06 | Command Injection | Medium |
+| 07 | PHP Injection | Critical |
+| 08 | Brute Force Attack | Medium |
+| 09 | Directory Traversal | Medium |
+| 10 | Apache Tomcat Remote Code Execution Vulnerability | High |
+| 11 | Shellshock | Critical |
+| 12 | Struts | High |
+| 13 | Drupal | High |
+| 14 | Password Guessing in SSH | Critical |
+| 15 | Sudo Command Privilege Vulnerability | Critical |
+| 16 | FTP Anonymous Vulnerability | High |
+| 17 | Slmail Vulnerability | Critical |
+| 18 | LSAdump Attack | High |
+| 19 | WMI Vulnerability | Critical |
+| 20 | DCSync Attack | Critical |

@@ -1,4 +1,4 @@
-# Debian_vs_Arch
+# Debian vs Arch
 
 | Task | Debian | Arch | Notes |
 | --- | --- | --- | --- |

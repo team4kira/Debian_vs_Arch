@@ -24,3 +24,4 @@ Same Commands for Both
 | List processes | top/htop | 
 | flatpak list | flatpak list |
 | flatpak update | flatpak update | 
+| Symbolic Link (shortcut) | ln -s |

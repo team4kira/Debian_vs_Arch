@@ -22,3 +22,5 @@ Same Commands for Both
 | Disk usage |  df -h | 
 | Memory Usage | free -h | 
 | List processes | top/htop | 
+| flatpak list | flatpak list |
+| flatpak update | flatpak update | 
